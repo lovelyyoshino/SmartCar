@@ -2,6 +2,10 @@
 
 - this repo is forked from https://github.com/amdegroot/ssd.pytorch. Implemented by pytorch.
 
+<!--| Linux                | Windows and MacOS|
+|-------------------------|------------------|
+[![Build Status](https://travis-ci.org/lovelyyoshino/SmartCar.svg?branch=master)](https://travis-ci.org/OriginQ/QPanda-2)        |    [![Build Status](https://dev.azure.com/yekongxiaogang/QPanda2/_apis/build/status/OriginQ.QPanda-2?branchName=master)](https://dev.azure.com/yekongxiaogang/QPanda2/_build/latest?definitionId=4&branchName=master) -->
+
 Contributions:
 1. 基于SSD大框架加入mobilenetv2以实现在嵌入式GPU开发板上的视频流识别
 2. 增加 focal loss. 

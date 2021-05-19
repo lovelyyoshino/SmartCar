@@ -10,7 +10,7 @@
   <a href="https://www.wenyuanblog.com/gift.html" target="_blank">
     <img alt="sponsor" src="https://img.shields.io/badge/sponsor-❤-ff69b4.svg?style=flat-square">
   </a>
-  <img alt="support" src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square">
+  <img alt="support" src="https://img.shields.io/badge/license-Windows&Linux-blue.svg?style=flat-square">
 </p>
 
 <!--| Linux                | Windows and MacOS|

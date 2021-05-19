@@ -2,6 +2,17 @@
 
 - this repo is forked from https://github.com/amdegroot/ssd.pytorch. Implemented by pytorch.
 
+
+<p align="center">
+  <img alt="author" src="https://img.shields.io/badge/author-lovelyyoshino-blue.svg?style=flat-square">
+  <img alt="updated" src="https://img.shields.io/badge/update-2021.05-blue.svg?style=flat-square">
+  <img alt="license" src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square">
+  <a href="https://www.wenyuanblog.com/gift.html" target="_blank">
+    <img alt="sponsor" src="https://img.shields.io/badge/sponsor-❤-ff69b4.svg?style=flat-square">
+  </a>
+  <img alt="support" src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square">
+</p>
+
 <!--| Linux                | Windows and MacOS|
 |-------------------------|------------------|
 [![Build Status](https://travis-ci.org/lovelyyoshino/SmartCar.svg?branch=master)](https://travis-ci.org/OriginQ/QPanda-2)        |    [![Build Status](https://dev.azure.com/yekongxiaogang/QPanda2/_apis/build/status/OriginQ.QPanda-2?branchName=master)](https://dev.azure.com/yekongxiaogang/QPanda2/_build/latest?definitionId=4&branchName=master) -->
